@@ -3,7 +3,6 @@
 
 - 💻 I ~like~ **love** coding
 - 🎓 I'm currently studying Computer Science and Engineering (CSE) at Bangladesh University of Engineering and Technology (BUET)
-<!-- - 🔭 I’m currently working on a educational platform. Keep an eye for it. -->
 - 👯 I have successfully worked on production level projects regarding android and web.
 - 🌱 I’m currently perfecting my skills with ReactJS and Android MVP Architecture.
 - 👯 I’m looking to collaborate on opensource and group projects.
@@ -16,10 +15,21 @@
 ## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/anupbhowmik21/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anupbhowmik21/) 
 
+# My Production Level Projects
+## Android Apps
+I have worked as a part time Android developer in BYDO Engineering and worked alongside the Backend team to develop these two apps
+- [BYDO Academy Android App](https://play.google.com/store/apps/details?id=com.suffixit.bydo&hl=en&gl=US)
+- [UPOSORGO Android App](https://play.google.com/store/apps/details?id=com.uposorgo.uposorgo&hl=en&gl=US)
+
+## Web Apps
+I was one of the lead front end developers in this project
+- [MyLens Front End](https://github.com/Anupznk/myLens-FrontEnd)
+- [MyLens Rider site](https://github.com/Anupznk/mylens-rider)
+
+
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -61,6 +71,26 @@
 </td></tr></table>  
 
 <br/>  
+
+# My Academic Projects
+These are the projects that I made during my Academic years at BUET
+## Level 1 Term 1
+- [AutoCad Projects](https://github.com/Anupznk/AutoCad-Projects)
+
+## Level 1 Term 2
+- [JavaFX Project](https://github.com/Anupznk/JavaFX-Project-Car-Dealership)
+
+## Level 2 Term 1
+- [DSA 1](https://github.com/Anupznk/DSA-1-CSE-204)
+- [Digital Logic Design](https://github.com/Anupznk/Digital-Logic-Design-CSE-206)
+- [Numerical Analysis](https://github.com/Anupznk/Numerical-Analysis-CSE-218)
+
+## Level 2 Term 2
+- [DSA 2](https://github.com/Anupznk/DSA-2-CSE-208)
+- [Database and React Project](https://github.com/Anupznk/BrightMate-Library-Database-Project)
+
+## Level 3 Term 1
+- 
 
 
 # GitHub Stats:
