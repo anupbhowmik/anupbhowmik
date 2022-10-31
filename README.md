@@ -6,10 +6,6 @@
 - 👯 I have successfully worked on production level projects regarding android and web.
 - 🌱 I’m currently perfecting my skills with ReactJS and Android MVP Architecture.
 - 👯 I’m looking to collaborate on opensource and group projects.
-<!-- - Usesless Stats:
-- 🏅 Number of times I was asked to hack a FB : 3
-- 📱  Number of times I was approached with an app idea: 7 
--->
 
 
 ## Socials
@@ -17,15 +13,14 @@
 
 # My Production Level Projects
 ## Android Apps
-I have worked as a part time Android developer in BYDO Engineering and worked alongside the Backend team to develop these two apps
+I have worked as a part time Android developer in BYDO Engineering and worked alongside the Backend team to develop these two apps. BYDO Engineering holds the copyright of the code base, that's why I cannot share the private repository. Here are the links to the google play store pages.
 - [BYDO Academy Android App](https://play.google.com/store/apps/details?id=com.suffixit.bydo&hl=en&gl=US)
 - [UPOSORGO Android App](https://play.google.com/store/apps/details?id=com.uposorgo.uposorgo&hl=en&gl=US)
 
 ## Web Apps
-I was one of the lead front end developers in this project
+I was one of the lead front end developers in this project.
 - [MyLens Front End](https://github.com/Anupznk/myLens-FrontEnd)
 - [MyLens Rider site](https://github.com/Anupznk/mylens-rider)
-
 
 
 ## My Skill Set  
