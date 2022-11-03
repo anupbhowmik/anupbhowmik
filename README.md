@@ -74,15 +74,14 @@ The projects can be found [here](https://github.com/Anupznk/Academic-Projects-BU
 
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anupznk&theme=light&hide_border=false&include_all_commits=true&count_private=true)     &nbsp;
-![](https://github-readme-streak-stats.herokuapp.com/?user=anupznk&theme=light&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=anupznk&theme=dark&hide_border=false&include_all_commits=true&count_private=true)     &nbsp;
+![](https://github-readme-streak-stats.herokuapp.com/?user=anupznk&theme=dark&hide_border=false)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=anupznk&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=anupznk&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- - Usesless Stats:
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anupznk&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
--->
+ -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=anupznk&icon=0&color=0)](https://visitcount.itsvg.in)
