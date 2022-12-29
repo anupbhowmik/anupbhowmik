@@ -27,7 +27,7 @@ I have worked as a part time Android developer in BYDO Engineering and worked al
 - [BYDO Academy Android App](https://play.google.com/store/apps/details?id=com.suffixit.bydo&hl=en&gl=US)
 - [UPOSORGO Android App](https://play.google.com/store/apps/details?id=com.uposorgo.uposorgo&hl=en&gl=US)
 
-## My Public Android app Repositories
+## My Public Android app Templates (For Beginners)
 - [Onboarding Screen Template](https://github.com/Anupznk/SplashScreen-Onboarding-Android)
 - [JSON Parsing and RecyclerView](https://github.com/Anupznk/JSON-Parsing-Android)
 - [Simple Activity](https://github.com/Anupznk/Simple-Activity-Android)
