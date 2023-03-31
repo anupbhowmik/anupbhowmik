@@ -23,10 +23,10 @@ I have worked as a part time Android developer in BYDO Engineering and worked al
 - [UPOSORGO Android App](https://play.google.com/store/apps/details?id=com.uposorgo.uposorgo&hl=en&gl=US)
 
 ## My Public Android app Templates (For Beginners)
-- [Onboarding Screen Template](https://github.com/Anupznk/SplashScreen-Onboarding-Android)
-- [JSON Parsing and RecyclerView](https://github.com/Anupznk/JSON-Parsing-Android)
-- [Simple Activity](https://github.com/Anupznk/Simple-Activity-Android)
-- [ViewPager Template](https://github.com/Anupznk/ViewPager-Android/)
+- [Onboarding Screen Template](https://github.com/anupbhowmik/SplashScreen-Onboarding-Android)
+- [JSON Parsing and RecyclerView](https://github.com/anupbhowmik/JSON-Parsing-Android)
+- [Simple Activity](https://github.com/anupbhowmik/Simple-Activity-Android)
+- [ViewPager Template](https://github.com/anupbhowmik/ViewPager-Android/)
 
 ## Web Apps
 I am currently working on this research based project under IWFM, BUET. This project is funded by ICT Division Bangladesh. <br>
@@ -34,8 +34,8 @@ I am currently working on this research based project under IWFM, BUET. This pro
 
 
 I was one of the lead front end developers in MyLens project.
-- [MyLens Front End](https://github.com/Anupznk/myLens-FrontEnd)
-- [MyLens Rider site](https://github.com/Anupznk/mylens-rider)
+- [MyLens Front End](https://github.com/anupbhowmik/myLens-FrontEnd)
+- [MyLens Rider site](https://github.com/anupbhowmik/mylens-rider)
 
 
 ## My Skill Set  
@@ -83,20 +83,22 @@ I was one of the lead front end developers in MyLens project.
 <br/>  
 
 # My Academic Projects
-These are the projects that I made during my Academic years at BUET <br>
-The projects can be found [here](https://github.com/Anupznk/Academic-Projects-BUET/tree/main)
+These are the projects that I made during my Academic years at `BUET` <br>
+
+`The projects can be found`
+[here](https://github.com/anupbhowmik/Academic-Projects-BUET/tree/main)
 
 
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anupznk&theme=dark&hide_border=false&include_all_commits=true&count_private=true)     &nbsp;
-![](https://github-readme-streak-stats.herokuapp.com/?user=anupznk&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=anupbhowmik&theme=dark&hide_border=false&include_all_commits=true&count_private=true)     &nbsp;
+![](https://github-readme-streak-stats.herokuapp.com/?user=anupbhowmik&theme=dark&hide_border=false)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=anupznk&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=anupbhowmik&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anupznk&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=anupbhowmik&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
  -->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anupznk&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=anupbhowmik&icon=0&color=0)](https://visitcount.itsvg.in)
