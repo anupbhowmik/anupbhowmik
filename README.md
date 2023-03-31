@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-
-- 💻 I ~like~ **love** coding
-- 🎓 I'm currently studying Computer Science and Engineering (CSE) at Bangladesh University of Engineering and Technology (BUET)
-- 👯 I have successfully worked on production level projects regarding android and web.
-- 🌱 I’m currently perfecting my skills with ReactJS and Android MVP Architecture.
-- 👯 I’m looking to collaborate on opensource and group projects.
+I'm currently studying Computer Science and Engineering (CSE) at Bangladesh University of Engineering and Technology (BUET). I have successfully worked on production level projects regarding android and web. I’m currently perfecting my skills with ReactJS and Android MVP Architecture and looking to collaborate on opensource and group projects.
 
 
 ## Connect with me  
@@ -34,7 +29,11 @@ I have worked as a part time Android developer in BYDO Engineering and worked al
 - [ViewPager Template](https://github.com/Anupznk/ViewPager-Android/)
 
 ## Web Apps
-I was one of the lead front end developers in this project.
+I am currently working on this research based project under IWFM, BUET. This project is funded by ICT Division Bangladesh. <br>
+[Early Warning System for River Erosion](https://early-warning-river-erosion.netlify.app/)
+
+
+I was one of the lead front end developers in MyLens project.
 - [MyLens Front End](https://github.com/Anupznk/myLens-FrontEnd)
 - [MyLens Rider site](https://github.com/Anupznk/mylens-rider)
 
