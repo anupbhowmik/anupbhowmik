@@ -29,8 +29,8 @@ I have worked as a part time Android developer in BYDO Engineering and worked al
 - [ViewPager Template](https://github.com/anupbhowmik/ViewPager-Android/)
 
 ## Web Apps
-I am currently working on this research based project under IWFM, BUET. This project is funded by ICT Division Bangladesh. <br>
-[Early Warning System for River Erosion](https://early-warning-river-erosion.netlify.app/)
+This is a research based project under IWFM, BUET. This project is funded by ICT Division Bangladesh. <br>
+[Early Warning System for River Erosion](https://www.ews-re.com/)
 
 
 I was one of the lead front end developers in MyLens project.
