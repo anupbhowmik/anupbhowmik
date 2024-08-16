@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently studying Computer Science and Engineering (CSE) at Bangladesh University of Engineering and Technology (BUET). I have successfully worked on production level projects regarding android and web. I’m currently perfecting my skills with ReactJS and Android MVP Architecture and looking to collaborate on opensource and group projects.
+Currently, I'm a full-time Software Engineer at Pridesys IT Ltd. I graduated from the Department of Computer Science and Engineering (CSE) at Bangladesh University of Engineering and Technology (BUET). I have successfully worked on production-level projects related to Android, Web apps, and DevOps. I’m always open to collaborating on open-source and group projects.
 
 
 ## Connect with me  
@@ -8,35 +8,10 @@ I'm currently studying Computer Science and Engineering (CSE) at Bangladesh Univ
 <a href="https://www.linkedin.com/in/anupbhowmik21/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/anupbhowmik21/" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
 <a href="https://www.behance.net/anupbhowmik" target="_blank">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a> 
 <br/>  
-
-# My Production Level Projects
-## Android Apps
-I have worked as a part time Android developer in BYDO Engineering and worked alongside the Backend team to develop these two apps. BYDO Engineering holds the copyright of the code base, that's why I cannot share the private repository. Here are the links to the google play store pages.
-- [BYDO Academy Android App](https://play.google.com/store/apps/details?id=com.suffixit.bydo&hl=en&gl=US)
-- [UPOSORGO Android App](https://play.google.com/store/apps/details?id=com.uposorgo.uposorgo&hl=en&gl=US)
-
-## My Public Android app Templates (For Beginners)
-- [Onboarding Screen Template](https://github.com/anupbhowmik/SplashScreen-Onboarding-Android)
-- [JSON Parsing and RecyclerView](https://github.com/anupbhowmik/JSON-Parsing-Android)
-- [Simple Activity](https://github.com/anupbhowmik/Simple-Activity-Android)
-- [ViewPager Template](https://github.com/anupbhowmik/ViewPager-Android/)
-
-## Web Apps
-This is a research based project under IWFM, BUET. This project is funded by ICT Division Bangladesh. <br>
-[Early Warning System for River Erosion](https://www.ews-re.com/)
-
-
-I was one of the lead front end developers in MyLens project.
-- [MyLens Front End](https://github.com/anupbhowmik/myLens-FrontEnd)
-- [MyLens Rider site](https://github.com/anupbhowmik/mylens-rider)
-
 
 ## My Skill Set  
 <table><tr>
@@ -53,7 +28,6 @@ I was one of the lead front end developers in MyLens project.
 </div>
 
 </td><td valign="top" width="33%">
-
 
 
 ### Backend  
@@ -98,6 +72,32 @@ I was one of the lead front end developers in MyLens project.
 
 </td></tr></table>  
 
+# My Production Level Projects
+## Android Apps
+I have worked as a part-time Android developer in BYDO Engineering and worked alongside the Backend team to develop these two apps. BYDO Engineering holds the copyright of the code base, that's why I cannot share the private repository. Here are the links to the Google Play Store pages.
+- [BYDO Academy Android App](https://play.google.com/store/apps/details?id=com.suffixit.bydo&hl=en&gl=US)
+- [UPOSORGO Android App](https://play.google.com/store/apps/details?id=com.uposorgo.uposorgo&hl=en&gl=US)
+
+## My Public Android app Templates (For Beginners)
+- [Onboarding Screen Template](https://github.com/anupbhowmik/SplashScreen-Onboarding-Android)
+- [JSON Parsing and RecyclerView](https://github.com/anupbhowmik/JSON-Parsing-Android)
+- [Simple Activity](https://github.com/anupbhowmik/Simple-Activity-Android)
+- [ViewPager Template](https://github.com/anupbhowmik/ViewPager-Android/)
+
+## Web Apps
+### Early Warning System for River Erosion
+This is a research-based project under IWFM, BUET. This project is funded by ICT Division Bangladesh. <br/>
+[Live Website](https://www.ews-re.com/)
+
+### CommuniCreate
+A centralized system for connecting Creative Content Agency and Clients. Features of this project include Personalized Dashboard, Task Management, Review System, Employee Management, Project Management, Payment System, and Admin Site for managing users. <br/>
+[Live Website](https://communicreate.onrender.com)
+
+#### Features and Codebase
+[CommuniCreate Project](https://github.com/CPM-Creative-Production-Management)
+
+
+
 <br/>  
 
 # My Academic Projects
@@ -105,7 +105,6 @@ These are the projects that I made during my Academic years at `BUET` <br>
 
 `The projects can be found`
 [here](https://github.com/anupbhowmik/Academic-Projects-BUET/tree/main)
-
 
 
 # GitHub Stats:
