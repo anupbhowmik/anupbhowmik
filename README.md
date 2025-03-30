@@ -13,38 +13,30 @@ Currently, I'm a full-time Software Engineer at Pridesys IT Ltd. I graduated fro
 - **Frontend**: React, Next.js, ESLint, i18n, Android Studio
 - **Databases**: PostgreSQL, Firebase, Oracle
 
-## Android app Starter Templates (For Beginners)
+## Android app Starter Templates
 
 - [Onboarding Screen Template](https://github.com/anupbhowmik/SplashScreen-Onboarding-Android)
 - [JSON Parsing and RecyclerView](https://github.com/anupbhowmik/JSON-Parsing-Android)
 - [ViewPager Template](https://github.com/anupbhowmik/ViewPager-Android/)
 
-## Web Apps
+## Live Projects
 
-### Early Warning System for River Erosion
+### Early Warning System for River Erosion [![Live Website](https://img.shields.io/badge/-Live%20Website-0085C0?style=flat&logo=ripple)](https://www.ews-re.com/)
 
 This is a research-based project under IWFM, BUET. This project is funded by ICT Division Bangladesh.
 
-[Live Website](https://www.ews-re.com/)
-
-### CommuniCreate
+### CommuniCreate [![Codebase](https://img.shields.io/badge/-Codebase-000000?style=flat&logo=github)](https://github.com/CPM-Creative-Production-Management) [![Live Website](https://img.shields.io/badge/-Live%20Website-0085C0?style=flat&logo=ripple)](https://communicreate.onrender.com)
 
 A centralized system for connecting Creative Content Agency and Clients. Features of this project include Personalized Dashboard, Task Management, Review System, Employee Management, Project Management, Payment System, and Admin Site for managing users.
 
-[Live Website](https://communicreate.onrender.com)
-
-#### Features and Codebase
-
-[CommuniCreate Project](https://github.com/CPM-Creative-Production-Management)
-
-# My Academic Projects
+## Academic Projects
 
 These are the projects that I made during my Academic years at `BUET`
 
 `The projects can be found`
-[here](https://github.com/anupbhowmik/Academic-Projects-BUET/tree/main)
+[here](https://github.com/anupbhowmik/Academic-Projects-BUET)
 
-# GitHub Stats
+## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=anupbhowmik&theme=dark&hide_border=false&include_all_commits=true&count_private=true) &nbsp;
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anupbhowmik&theme=dark&hide_border=false)
