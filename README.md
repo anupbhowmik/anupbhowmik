@@ -10,7 +10,8 @@ Currently, I'm a full-time Software Engineer at Pridesys IT Ltd. I graduated fro
 - **AI/ML**: LangChain, LangFuse, TensorFlow, PyTorch, Scikit-learn, OpenCV, Pandas, NumPy
 - **Frameworks**: React, Node.js, Express.js, Flask, Django
 - **DevOps and Cloud**: Docker, Kubernetes, Minikube, Vault, Terraform, Microsoft Azure, GitHub Actions, Watchtower, Traefik, k6, Grafana, JMeter
-- **Frontend**: React, Next.js, ESLint, i18n, Android Studio
+- **Frontend**: React, Next.js, ESLint, i18n, Android Studio, Flutter
+- **Backend**: Node.js, Spring Boot, Flask, FastAPI
 - **Databases**: PostgreSQL, Firebase, Oracle
 
 ## Android app Starter Templates
@@ -35,8 +36,9 @@ A centralized system for connecting Creative Content Agency and Clients. Feature
 
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=anupbhowmik&theme=dark&hide_border=false&include_all_commits=true&count_private=true) &nbsp;
-![](https://github-readme-streak-stats.herokuapp.com/?user=anupbhowmik&theme=dark&hide_border=false)
+![Personal Stats](https://github-readme-stats.vercel.app/api?username=anupbhowmik&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=anupbhowmik&theme=dark&hide_border=false)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=anupbhowmik&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -46,4 +48,4 @@ A centralized system for connecting Creative Content Agency and Clients. Feature
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=anupbhowmik&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Visit Count](https://visitcount.itsvg.in/api?id=anupbhowmik&icon=0&color=0)](https://visitcount.itsvg.in)
