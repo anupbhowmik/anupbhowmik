@@ -25,16 +25,13 @@ Currently, I'm a full-time Software Engineer at Pridesys IT Ltd. I graduated fro
 
 This is a research-based project under IWFM, BUET. This project is funded by ICT Division Bangladesh.
 
-### CommuniCreate [![Codebase](https://img.shields.io/badge/-Codebase-000000?style=flat&logo=github)](https://github.com/CPM-Creative-Production-Management) [![Live Website](https://img.shields.io/badge/-Live%20Website-0085C0?style=flat&logo=ripple)](https://communicreate.onrender.com)
+### CommuniCreate [![Codebase](https://img.shields.io/badge/-Codebase-000000?style=flat&logo=github)](https://github.com/CPM-Creative-Production-Management) [![Live Website](https://img.shields.io/badge/-Live%20Website-3ab7a5?style=flat&logo=ripple)](https://communicreate.onrender.com)
 
 A centralized system for connecting Creative Content Agency and Clients. Features of this project include Personalized Dashboard, Task Management, Review System, Employee Management, Project Management, Payment System, and Admin Site for managing users.
 
 ## Academic Projects
 
-These are the projects that I made during my Academic years at `BUET`
-
-`The projects can be found`
-[here](https://github.com/anupbhowmik/Academic-Projects-BUET)
+[![BUET Projects](https://img.shields.io/badge/-BUET%20Projects-ab1e22?style=flat&logo=ripple)](https://github.com/anupbhowmik/Academic-Projects-BUET)
 
 ## GitHub Stats
 
