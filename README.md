@@ -13,7 +13,7 @@ Currently, I'm a full-time Software Engineer at Pridesys IT Ltd. I graduated fro
  ![LangChain](https://img.shields.io/badge/LangChain-FF9900?style=flat&logo=langchain&logoColor=white) ![LangFuse](https://img.shields.io/badge/LangFuse-000000?style=flat&logo=langchain&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
 **DevOps and Cloud**  
- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Minikube](https://img.shields.io/badge/Minikube-F5F5F5?style=flat&logo=kubernetes&logoColor=blue) ![Vault](https://img.shields.io/badge/Vault-000000?style=flat&logo=vault&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white) ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Watchtower](https://img.shields.io/badge/Watchtower-000000?style=flat&logo=docker&logoColor=white) ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat&logo=traefik&logoColor=white) ![k6](https://img.shields.io/badge/k6-7D64FF?style=flat&logo=k6&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white) ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat&logo=apache-jmeter&logoColor=white)
+ ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Minikube](https://img.shields.io/badge/Minikube-F5F5F5?style=flat&logo=kubernetes&logoColor=blue) ![Vault](https://img.shields.io/badge/Vault-000000?style=flat&logo=vault&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white) ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Watchtower](https://img.shields.io/badge/Watchtower-000000?style=flat&logo=watchtower&logoColor=white) ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat&logo=traefik&logoColor=white) ![k6](https://img.shields.io/badge/k6-7D64FF?style=flat&logo=k6&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white) ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat&logo=apache-jmeter&logoColor=white)
 
 **Frontend**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white) ![i18n](https://img.shields.io/badge/i18n-0078D4?style=flat&logo=localization&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
@@ -23,6 +23,8 @@ Currently, I'm a full-time Software Engineer at Pridesys IT Ltd. I graduated fro
 
 **Databases**  
  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+
+## 👨🏻‍💻 Things I Explored
 
 ## 🔴 Live Projects
 
@@ -37,12 +39,6 @@ A centralized system for connecting Creative Content Agency and Clients. Feature
 ## 🎓 Academic Projects
 
 [![BUET Projects](https://img.shields.io/badge/-BUET%20Projects-ab1e22?style=flat)](https://github.com/anupbhowmik/Academic-Projects-BUET)
-
-## 👨🏻‍💻 Android app Starter Templates
-
-- [Onboarding Screen Template](https://github.com/anupbhowmik/SplashScreen-Onboarding-Android)
-- [JSON Parsing and RecyclerView](https://github.com/anupbhowmik/JSON-Parsing-Android)
-- [ViewPager Template](https://github.com/anupbhowmik/ViewPager-Android/)
 
 ## GitHub Stats
 
