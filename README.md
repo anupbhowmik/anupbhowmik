@@ -50,8 +50,6 @@ A centralized system for connecting Creative Content Agency and Clients. Feature
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=anupbhowmik&theme=dark&hide_border=false)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=anupbhowmik&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anupbhowmik&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
  -->
