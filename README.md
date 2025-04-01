@@ -26,19 +26,36 @@ Currently, I'm a full-time Software Engineer at Pridesys IT Ltd. I graduated fro
 
 ## 👨🏻‍💻 Things I Explored
 
+- Configure Traefik as Reverse Proxy and setup SSL using Let's Encrypt
+- CI/CD using watchtower, docker, Github actions
+- Mange secret using HashiCorp Vault
+- Develop Agentic AI system with RAG using langchain
+- LLM Analytics and Tracing with self hosted Langfuse
+- Cloude infrastructure on Azure using services like ... services
+- Mobile app in Flutter, Native Android app in Java
+- Load testing using k6
+- Configure and manage DNS in Cloudflare
+- Built a Compiler (flex-bison)
+
 ## 🔴 Live Projects
 
 ### Early Warning System for River Erosion [![Live Website](https://img.shields.io/badge/-Live%20Website-0085C0?style=flat&logo=ripple)](https://www.ews-re.com/)
 
-This is a research-based project under IWFM, BUET. This project is funded by ICT Division Bangladesh.
+A web-based early warning system to warn the households living in coastal regions of Bangladesh in case of river erosion. This project is under IWFM, BUET and funded by ICT Division Bangladesh.
 
-### CommuniCreate [![Codebase](https://img.shields.io/badge/-Codebase-000000?style=flat&logo=github)](https://github.com/CPM-Creative-Production-Management) [![Live Website](https://img.shields.io/badge/-Live%20Website-3ab7a5?style=flat&logo=ripple)](https://communicreate.onrender.com)
+<!-- ### CommuniCreate [![Codebase](https://img.shields.io/badge/-Codebase-000000?style=flat&logo=github)](https://github.com/CPM-Creative-Production-Management) [![Live Website](https://img.shields.io/badge/-Live%20Website-3ab7a5?style=flat&logo=ripple)](https://communicreate.onrender.com)
 
-A centralized system for connecting Creative Content Agency and Clients. Features of this project include Personalized Dashboard, Task Management, Review System, Employee Management, Project Management, Payment System, and Admin Site for managing users.
+A centralized system for connecting Creative Content Agency and Clients. Features of this project include Personalized Dashboard, Task Management, Review System, Employee Management, Project Management, Payment System, and Admin Site for managing users. -->
 
 ## 🎓 Academic Projects
 
 [![BUET Projects](https://img.shields.io/badge/-BUET%20Projects-ab1e22?style=flat)](https://github.com/anupbhowmik/Academic-Projects-BUET)
+
+## Talks and Workshops
+
+## Write-Ups
+
+- [Automating Deployments with GitHub Actions and Watchtower: A Hands-on Guide](https://medium.com/p/7780f647f82b)
 
 ## GitHub Stats
 
