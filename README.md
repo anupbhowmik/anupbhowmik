@@ -26,16 +26,16 @@ Currently, I'm a full-time Software Engineer at Pridesys IT Ltd. I graduated fro
 
 ## 👨🏻‍💻 Things I Explored
 
-- Configure Traefik as Reverse Proxy and setup SSL using Let's Encrypt
-- CI/CD using watchtower, docker, Github actions
-- Mange secret using HashiCorp Vault
-- Develop Agentic AI system with RAG using langchain
-- LLM Analytics and Tracing with self hosted Langfuse
-- Cloude infrastructure on Azure using services like ... services
-- Mobile app in Flutter, Native Android app in Java
-- Load testing using k6
-- Configure and manage DNS in Cloudflare
-- Built a Compiler (flex-bison)
+- Configure [Traefik](https://traefik.io/) as Reverse Proxy and setup SSL using [Let's Encrypt](https://letsencrypt.org/)
+- CI/CD using [Watchtower](https://containrrr.dev/watchtower/), [Docker](https://www.docker.com/), [Github actions](https://docs.github.com/en/actions)
+- Mange secret using [HashiCorp Vault](https://www.vaultproject.io/)
+- Develop Agentic AI system with RAG using [LangChain](https://www.langchain.com/)
+- LLM Analytics and Tracing with self hosted [Langfuse](https://langfuse.com/)
+- Manage cloud infrastructure on Azure using services like [Azure Kubernetes Service (AKS)](https://azure.microsoft.com/en-us/products/kubernetes-service), [Azure Container Registry](https://azure.microsoft.com/en-us/products/container-registry), [Azure Database for PostgreSQL flexible server](https://learn.microsoft.com/en-us/azure/postgresql/), [Azure Static Web Apps](https://azure.microsoft.com/en-us/products/app-service/static), [Azure Key vault](https://azure.microsoft.com/en-us/products/key-vault)
+- Mobile app in [Flutter](https://flutter.dev/), [Native Android](https://developer.android.com/) app in Java
+- Load testing using [k6](https://k6.io/open-source/)
+- Configure and manage DNS in [Cloudflare](https://www.cloudflare.com/)
+- Built a [Compiler](https://github.com/anupbhowmik/Compiler) (flex-bison) from scratch
 
 ## 🔴 Live Projects
 
@@ -52,6 +52,8 @@ A centralized system for connecting Creative Content Agency and Clients. Feature
 [![BUET Projects](https://img.shields.io/badge/-BUET%20Projects-ab1e22?style=flat)](https://github.com/anupbhowmik/Academic-Projects-BUET)
 
 ## Talks and Workshops
+
+- [Workshop on AI and API](https://www.youtube.com/watch?v=K4a0-QlTOeo&t=2s) at BUET CSE Fest 2024
 
 ## Write-Ups
 
