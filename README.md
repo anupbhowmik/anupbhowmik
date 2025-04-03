@@ -19,21 +19,21 @@ Currently, I'm a full-time Software Engineer at Pridesys IT Ltd. I graduated fro
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white) ![i18n](https://img.shields.io/badge/i18n-0078D4?style=flat&logo=localization&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 **Backend**  
- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+ ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 **Databases**  
  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 
 ## 👨🏻‍💻 Things I Explored
 
-- Configure [Traefik](https://traefik.io/) as Reverse Proxy and setup SSL using [Let's Encrypt](https://letsencrypt.org/)
-- CI/CD using [Watchtower](https://containrrr.dev/watchtower/), [Docker](https://www.docker.com/), [Github actions](https://docs.github.com/en/actions)
-- Mange secret using [HashiCorp Vault](https://www.vaultproject.io/)
 - Develop Agentic AI system with RAG using [LangChain](https://www.langchain.com/)
 - LLM Analytics and Tracing with self hosted [Langfuse](https://langfuse.com/)
+- CI/CD using [Watchtower](https://containrrr.dev/watchtower/), [Docker](https://www.docker.com/), [Github actions](https://docs.github.com/en/actions)
 - Manage cloud infrastructure on Azure using services like [Azure Kubernetes Service (AKS)](https://azure.microsoft.com/en-us/products/kubernetes-service), [Azure Container Registry](https://azure.microsoft.com/en-us/products/container-registry), [Azure Database for PostgreSQL flexible server](https://learn.microsoft.com/en-us/azure/postgresql/), [Azure Static Web Apps](https://azure.microsoft.com/en-us/products/app-service/static), [Azure Key vault](https://azure.microsoft.com/en-us/products/key-vault)
-- Mobile app in [Flutter](https://flutter.dev/), [Native Android](https://developer.android.com/) app in Java
-- Load testing using [k6](https://k6.io/open-source/)
+- Configure [Traefik](https://traefik.io/) as Reverse Proxy and setup SSL using [Let's Encrypt](https://letsencrypt.org/)
+- Mange secrets using [HashiCorp Vault](https://www.vaultproject.io/)
+- Mobile app development in [Flutter](https://flutter.dev/) and [Native Android](https://developer.android.com/) app in Java
+- Load testing using [k6](https://k6.io/open-source/) and [Apache JMeter](https://jmeter.apache.org/)
 - Configure and manage DNS in [Cloudflare](https://www.cloudflare.com/)
 - Built a [Compiler](https://github.com/anupbhowmik/Compiler) (flex-bison) from scratch
 
