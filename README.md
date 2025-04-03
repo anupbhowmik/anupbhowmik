@@ -53,7 +53,7 @@ A centralized system for connecting Creative Content Agency and Clients. Feature
 
 ## Talks and Workshops
 
-- [Workshop on AI and API](https://www.youtube.com/watch?v=K4a0-QlTOeo&t=2s) at BUET CSE Fest 2024
+- [Workshop on AI and API](https://www.youtube.com/watch?v=K4a0-QlTOeo&t=40m32s) at BUET CSE Fest 2024
 
 ## Write-Ups
 
