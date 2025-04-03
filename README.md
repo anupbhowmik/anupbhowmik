@@ -27,6 +27,7 @@ Currently, I'm a full-time Software Engineer at Pridesys IT Ltd. I graduated fro
 ## 👨🏻‍💻 Things I Explored
 
 - Develop Agentic AI system with RAG using [LangChain](https://www.langchain.com/)
+- Self-hosted local LLMs using [Ollama](https://ollama.com/)
 - LLM Analytics and Tracing with self hosted [Langfuse](https://langfuse.com/)
 - CI/CD using [Watchtower](https://containrrr.dev/watchtower/), [Docker](https://www.docker.com/), [Github actions](https://docs.github.com/en/actions)
 - Manage cloud infrastructure on Azure using services like [Azure Kubernetes Service (AKS)](https://azure.microsoft.com/en-us/products/kubernetes-service), [Azure Container Registry](https://azure.microsoft.com/en-us/products/container-registry), [Azure Database for PostgreSQL flexible server](https://learn.microsoft.com/en-us/azure/postgresql/), [Azure Static Web Apps](https://azure.microsoft.com/en-us/products/app-service/static), [Azure Key vault](https://azure.microsoft.com/en-us/products/key-vault)
