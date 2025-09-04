@@ -1,6 +1,10 @@
 ## Hi there! I'm Anup Bhowmik 👋
 
-Currently, I'm a full-time Software Engineer at Pridesys IT Ltd. I graduated from [CSE, BUET](https://cse.buet.ac.bd/). I am working on _Agentic AI_ system and AI integration in a production-level ERP software. I have experience delivering production-grade solutions across Web Apps, DevOps, and Cloud Infrastructure.
+_[last updated: 4 Sept 2025]_
+
+Currently I'm working as a **Teaching Assistant** in CS Department while pursuing Master's at [Binghamton University](https://www.binghamton.edu/). Previously, I was a full-time Software Engineer at Pridesys IT Ltd. I graduated from [CSE, BUET](https://cse.buet.ac.bd/). I developed end-to-end AI pipelines in a production-level ERP software. I also served as a **Lead DevOps Engineer** at Brainlytic, where I designed and deployed scalable, production-ready cloud infrastructure and automated CI/CD pipelines, reducing deployment efforts by **90%** and scaling systems to serve **2000+** users.
+
+I bring hands-on experience in developing production-grade solutions across Web Applications, AI/ML, DevOps, and Cloud Infrastructure, with a strong focus on scalability, reliability, and real-world impact.
 
 > 💡 I'm open to new opportunities in the domain of ML engineering, DevOps and cloud infrastructure! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/anupbhowmik21) or [email](mailto:anupbhowmik.1998@gmail.com) me directly.
 
